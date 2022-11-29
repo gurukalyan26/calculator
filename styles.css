@@ -1,0 +1,13 @@
+input[type=text] {
+    background-color: black;
+    color: #b8ffb8;
+    width: 100%;
+    height: 15vh;
+    font-size: 40px;
+}
+
+input[type=button] {
+    width: 100%;
+    height: 100%;
+    font-size: 40px;
+}
